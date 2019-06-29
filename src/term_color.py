@@ -3,7 +3,6 @@
 ResetAll = "\033[0m"
 
 # Style
-
 Bold = "\033[1m"
 Dim = "\033[2m"
 Underlined = "\033[4m"
@@ -12,7 +11,6 @@ Reverse = "\033[7m"
 Hidden = "\033[8m"
 
 # Reser Style
-
 ResetBold = "\033[21m"
 ResetDim = "\033[22m"
 ResetUnderlined = "\033[24m"
@@ -21,7 +19,6 @@ ResetReverse = "\033[27m"
 ResetHidden = "\033[28m"
 
 # Colors
-
 Default = "\033[39m"
 Black = "\033[30m"
 Red = "\033[31m"
@@ -41,7 +38,6 @@ LightCyan = "\033[96m"
 White = "\033[97m"
 
 #Backgroung Color
-
 BgDefault = "\033[49m"
 BgBlack = "\033[40m"
 BgRed = "\033[41m"
