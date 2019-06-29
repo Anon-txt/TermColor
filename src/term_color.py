@@ -37,7 +37,7 @@ LightMagenta = "\033[95m"
 LightCyan = "\033[96m"
 White = "\033[97m"
 
-#Backgroung Color
+# Backgroung Color
 BgDefault = "\033[49m"
 BgBlack = "\033[40m"
 BgRed = "\033[41m"
